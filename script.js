@@ -8,7 +8,7 @@
           {"name":"Calculadora","description":"Entrando al mundo de Javascript aplicando funciones de una calculadora básica","foto":"https://i.imgur.com/Ci6NqLM.png","see_more":"https://pgonzalezmx.github.io/git-calculadora/"},
           {"name":"Carta Para Mamá","description":"Proyecto realizado para el hackathoncito del día de las madres que tuvimos en la segunda semana durante el curso. Envía una carta a tu mamá por whatsapp.","foto":"https://i.imgur.com/5S8ILkM.jpg","see_more":"https://pgonzalezmx.github.io/carta-para-mama/"},
           {"name":"GoodReads","description":"Clon de la página de inicio de GoodReads usando elementos de Bootstrap y CSS","foto":"https://i.imgur.com/Hm6od8W.jpg","see_more":"https://pgonzalezmx.github.io/git-clone-goodreads/"},
-          {"name":"Proyecto Final","description":"Recopilación de todos los proyectos desarrollados durante el curso de Cinta Blanca Cancún","foto":"https://i.ebayimg.com/images/g/KY4AAOSwXhZZ3~7k/s-l300.jpg","see_more":"https://pgonzalezmx.github.io/carta-para-mama/"},
+          {"name":"Proyecto Final","description":"Recopilación de todos los proyectos desarrollados durante el curso de Cinta Blanca Cancún","foto":"https://i.ebayimg.com/images/g/KY4AAOSwXhZZ3~7k/s-l300.jpg","see_more":"https://pgonzalezmx.github.io/git-devf-cinta-blanca-final/index.html"},
       ]
 
       function getFlags(proyecto) {
